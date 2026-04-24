@@ -1,5 +1,7 @@
 # typst-dl
 
+[![npm version](https://img.shields.io/npm/v/typst-dl)](https://www.npmjs.com/package/typst-dl)
+
 Download a Typst package from an HTTP(S) Git repository into Typst's local package directory.
 
 Typst Universe packages are published by opening a pull request against
