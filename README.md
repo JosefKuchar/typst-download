@@ -2,6 +2,11 @@
 
 Download a Typst package from an HTTP(S) Git repository into Typst's local package directory.
 
+Typst Universe packages are published by opening a pull request against
+`typst/packages`. `typst-dl` solves the pre-publish and out-of-tree case: install a
+package directly from its Git repository while developing, testing, or using a
+package that is not in Typst Universe yet.
+
 ## Install
 
 ```bash
